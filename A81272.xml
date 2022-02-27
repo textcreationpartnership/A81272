@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Elizabeth, the wife of Charles Stuteville Esq; and of their five children</title>
+            <author>Stuteville, Elizabeth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81272</idno>
+            <idno type="STC">Wing C912</idno>
+            <idno type="STC">ESTC R224642</idno>
+            <idno type="EEBO-CITATION">99897772</idno>
+            <idno type="PROQUEST">99897772</idno>
+            <idno type="VID">170940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2527:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Elizabeth, the wife of Charles Stuteville Esq; and of their five children</title>
+                  <author>Stuteville, Elizabeth.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? ;</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a docket title.</note>
+                  <note>C-S copy dated in MS: circa 1697; Wing has [1699-1700].</note>
+                  <note>Reproduction of original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stuteville, Elizabeth --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:170940:1" rendition="simple:additions"/>
+            <head>THE CASE Of <hi>Elizabeth,</hi> the Wife of <hi>Charles Stuteville</hi>
+               <abbr>Eſq</abbr> and of their Five Children.</head>
+            <p>THat the ſaid <hi>Charles Stuteville</hi> the 23th. of <hi>June</hi> 1687, Married <hi>Elizabeth</hi> the Daughter of <hi>John Becher</hi> 
+               <abbr>Eſq</abbr> his Eſtate being greatly Incumbred by divers Mortgages, which afterwards became Veſted in the Lady <hi>Glenham,</hi> who in 1682, brought her Bill in <hi>Chancery</hi> for Mr. <hi>Stuteville</hi> to Redeem, or be Fore-cloſed, and he was Decreed Forecloſed accordingly.</p>
+            <p>The Eſtate and Title to the Premiſſes, is by ſeveral Aſſignments, become Veſted in <hi>Gil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t Dolben</hi>
+               <abbr>Eſq</abbr> as Executor of Sr. <hi>William Dolben</hi> Deceaſed, the Aſſign of the ſaid Lady <hi>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ham.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>July</hi> 1689, <hi>Judith Stuteville</hi> Widow, Mother of the ſaid <hi>Charles,</hi> preferred her <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>Chancery</hi> againſt him, and obtained a Decree by Conſent for 5800 <abbr>
+                  <hi>l.</hi>
+               </abbr> 29 Years Ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of her Joynture, and 200 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+               <hi>per ann.</hi> for the future, according to her Marriage<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>dement, made by his Father in the Ninth Year of King <hi>Charles</hi> the Firſt.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1695. The ſaid <hi>Judith</hi> Aſſigned all her Eſtate and Intereſt to <hi>John</hi> and <hi>Charles <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>er,</hi> to ſuch Uſes as by her Will in 1690 was by her declared; of which Will the <hi>John</hi> and <hi>Charles Becher</hi> and <hi>John Bridger,</hi> are Executors in Truſt for the Child or <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ldren of her ſaid Son <hi>Charles</hi> and <hi>Elizabeth</hi> his Wife, Begotten, or to be Begotten.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Attorneys contriving his Ruine, he was kept at the Houſe of one of them, who <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>red a Conveyance of the Eſtate to himſelf and others, who were to pay Mr. <hi>Dolben;</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>here was no Proviſion made for his Wife or Children: And to force him to Execute Deed, <hi>Thomas Stuteville</hi> and his Wife Threatned him, Beat him, and Locked him <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellar, Broke his Arm, and Arreſted him, and ſent for a Tip-ſtaff belonging to the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who carried him behind him on Horſe-back into the <hi>Fleet</hi> Rules as a Priſoner, at <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uit of the ſaid <hi>Thomas Stuteville,</hi> although <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Roger Stuteville,</hi> Father of the ſaid <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obtained a Warrant of Attorney to confeſs a Judgment of 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> on the ſame <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ces.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Hillary</hi> Vacation 1697. Mr. <hi>Becher</hi> preferred his Bill in <hi>Chancery</hi> againſt Mr. <hi>Stuteville</hi> others his Confederates, Mr. <hi>Stuteville</hi> was ſerved with Proceſs, but never appeared <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Bill.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1698. The Pariſh finding Mr. <hi>Stuteville</hi> would neither take care of his Children, nor <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t that any other perſon ſhould, delivered the Children to Mr. <hi>Becher,</hi> their Grand<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion in 1697. The ſame being occaſioned by thoſe perſons (being ſix of them Attor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Solicitors, and moſt of them of Kin one to another.)</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Stuteville</hi> preferred his Bill in <hi>Chancery</hi> againſt <hi>Mr. Dolben,</hi> to Redeem the ſaid Eſtate, <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ich Bill <hi>Mr. Dolben</hi> pleaded the Forecloſure by the Lady <hi>Glenham</hi> in 1682. in Barr, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Plea was ſeveral times Argued and Allowed to be a good Plea, and the Bill there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was diſmiſſed.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Stuteville</hi> in 1697. Conveyed his Equity of Redemption to <hi>John</hi> and <hi>Charles Becher; Dolben</hi> is content to accept of 8000 <abbr>
+                  <hi>l.</hi>
+               </abbr> due to him: But by reaſon <hi>Mr. Stuteville</hi> hath <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate in the Premiſſes, no perſon will Purchaſe the ſame without the Aid of an Act <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>liament, and there being 8000 <abbr>
+                  <hi>l.</hi>
+               </abbr> due to <hi>Mr. Dolben,</hi> and about 11000 <abbr>
+                  <hi>l.</hi>
+               </abbr> to <hi>Mr. <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>illes</hi> Children, in the whole about 19000 <abbr>
+                  <hi>l.</hi>
+               </abbr> though the ſaid Eſtate will ſell but for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more, if ſo much. It is deſigned that <hi>Mr. Stuteville</hi> may be provided for during <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te, out of the Intereſt of the Money Decreed to his Children. But if the ſaid Act <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epending ſhould not paſs, neither Mr. <hi>Stuteville,</hi> his Wife or Children, can have <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enefit from the ſaid Eſtate, but Ruine muſt inevitably befall the whole Family.</p>
+            <pb facs="tcp:170940:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:170940:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:170940:4" rendition="simple:additions"/>
+            <p>THE CASE Of <hi>Elizabeth,</hi> the Wife of <hi>Charles Stuteville</hi> 
+               <abbr>Eſq</abbr> and of their Five Children.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
